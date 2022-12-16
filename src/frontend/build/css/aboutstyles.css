@@ -1,0 +1,51 @@
+@font-family: {
+    'Pacifico', cursive;
+}
+
+
+h1 {
+    font-family: pacifico;
+    text-align: start;
+    font-size: 150px;
+    color: white;
+
+}
+
+h3 {
+    font-size: 80px;
+}
+
+p {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-image{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.about {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin-top: -1300px;
+    margin-left: 50px;
+    font-family: pacifico;
+    color: white;
+}
+
+.btn {
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 10px 16px; 
+    border-radius: 15%;
+    font-size: larger;
+}
+
+.nav-link {
+    font-size: 25px;
+    color: white;
+}
+

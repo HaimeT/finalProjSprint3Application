@@ -1,7 +1,5 @@
 package com.example.finalProjSprint3.controller.dto;
 
-import jakarta.persistence.Entity;
-
 
 public class ItemDto
 {
